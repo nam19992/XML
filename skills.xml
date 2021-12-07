@@ -13,16 +13,16 @@
         </skill_4>
         <skill_5>
                 5. Структуры HTTP запросов и ответов.
-        </skill_5>>
+        </skill_5>
         <skill_6>
                 6. Что такое JSON, XML. Их структура.
-        </skill_6>>
+        </skill_6>
         <skill_7>
                 7. Тестирование API через Postman (JS, автотесты API).
-        </skill_7>>
+        </skill_7>
         <skill_8>
                 8. Снятие и чтение логов c внешнего сервера.
-        </skill_8>>
+        </skill_8>
         <skill_9>
                 9. Снифинг http web трафика через Charles и Fiddler.
         </skill_9>
@@ -64,7 +64,7 @@
         </skill_21>
         <skill_22>
         22. Основы SQL (Create, Delete, Drop, Insert Into, Select, From, Where, Join).
-        </skill_22>>
+        </skill_22>
         <skill_23>
         23. База данных Postgres (установка, настройка и использование).
         </skill_23>
@@ -79,5 +79,5 @@
         </skill_26>
         <skill_27>
         27. Python. (Изучение основ. Создание клиент серверного приложения)
-        </skill_27>>
+        </skill_27>
 </skills>
